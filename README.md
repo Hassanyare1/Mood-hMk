@@ -1,2 +1,5 @@
-# Mood-hMk
-Test
+Haddii tacadiiyadii badheedhka ahaa ee nidaam ahaan loo geeysanayay Deegaanka ka dhamaadeen, balse kuwii shalay ceeboobay maanta raadinayaan dhacadooyin ay isku maydhaan oo ay mase aan jirin ku abuuraan, sidan eega wax yihiin ee ah in la sawirto ama waji kale loo yeelo nin fooq iska soo tuuray, islaan ninkeedii dishay, iyo qof dar ilaahay u dhintay, armay uga hawl yar tahay xabaalaha Jigjiga ee maalin walba maydka la geeyo in ay ag fadhiistaan oo waxaa ciida lagu rogayo oo dhan u tirsadaan cadaymaha “gumaadka” dhulka ka socda? 
+
+Waa wanaag maanta in aan marayno wad-diidnimo, balse waaqici ma tahay in aan cidna dar ilaahay iyo wakhtigeedii dhiman? 
+
+“Tab uu laasahaaga u dhurto iyo tuugo nin ujeedda, tilmaantiyo makhraatiga ileen kuguma taageero”, ayuu yidhi Qaryaan Dhoodaan. Loogama fadhiyo wanaag sheeg kuwuu isbadalku ku yimid ee ka macaashi jiray nidaamkii dad-qalatada ahaa. Waxaase waajib ah in shacabka balaadhan ee kale lala wadaago xaqaa’iqa jira. Wayna ku mahadsan yihiin shacabku sida ay isaga hubsanayaan sawaxanadda abaabulan ee ay hormoodka u yihiin kuwii shalay ceeboobay.
