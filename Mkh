@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ocean Theme Website</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to bottom, #66ccff, #0099cc);
+      color: white;
+      text-align: center;
+    }
+    nav {
+      display: flex;
+      justify-content: space-between;
+      background-color: rgba(0, 51, 102, 0.8);
+      padding: 1em;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1em;
+      padding: 1em;
+    }
+    .box {
+      background-color: rgba(255, 255, 255, 0.2);
+      padding: 1em;
+      border-radius: 10px;
+    }
+    .footer {
+      display: flex;
+      justify-content: space-between;
+      padding: 1em;
+      background-color: rgba(0, 51, 102, 0.8);
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="#">Profile</a>
+    <a href="#">Home</a>
+    <a href="#">Menu</a>
+  </nav>
+
+  <div class="box">Information</div>
+
+  <div class="grid">
+    <div class="box">Project</div>
+    <div class="box">Photo</div>
+    <div class="box">Post</div>
+  </div>
+
+  <div class="box" style="width: 50%; margin: 0 auto;">Wallpapers</div>
+
+  <div class="footer">
+    <div class="box">Contacts</div>
+    <div class="box">Privacy</div>
+  </div>
+</body>
+</html>
